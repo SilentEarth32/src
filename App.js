@@ -11,4 +11,3 @@ const name = 'Brad'
 }
 
 export default App;
-
